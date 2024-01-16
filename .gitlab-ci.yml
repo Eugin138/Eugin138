@@ -8,4 +8,4 @@ pages:
         - npm run build
     artifacts:
         paths:
-            - dist
+            - public
